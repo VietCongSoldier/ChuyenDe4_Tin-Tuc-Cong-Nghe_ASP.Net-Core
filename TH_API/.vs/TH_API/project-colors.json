@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "77ab4a6b-6b71-4f50-ae6c-4806069999e8": {
+      "ProjectGuid": "77ab4a6b-6b71-4f50-ae6c-4806069999e8",
+      "DisplayName": "TH_API",
+      "ColorIndex": 0
+    },
+    "09017c50-908f-4f3d-9031-cc8c2cca86f4": {
+      "ProjectGuid": "09017c50-908f-4f3d-9031-cc8c2cca86f4",
+      "DisplayName": "Model",
+      "ColorIndex": 1
+    },
+    "1409fcc5-0972-4259-8bc0-3152db203862": {
+      "ProjectGuid": "1409fcc5-0972-4259-8bc0-3152db203862",
+      "DisplayName": "DAL",
+      "ColorIndex": 2
+    },
+    "2b5c1c9b-f717-4790-991b-ba5cfceab5b7": {
+      "ProjectGuid": "2b5c1c9b-f717-4790-991b-ba5cfceab5b7",
+      "DisplayName": "BLL",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
